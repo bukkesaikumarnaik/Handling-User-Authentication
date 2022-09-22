@@ -12,7 +12,7 @@ import com.example.Authentication.entities.User;
 import com.example.Authentication.services.UserService;
 
 @SpringBootTest
-class Authentication1ApplicationTests {
+class HandlingUserAuthenticationApplicationTests {
 
 	@Autowired
 	private UserService userService;
